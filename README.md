@@ -1,2 +1,2 @@
 # Web-Applications
-This repository shows all my web application
+This repository contains all my web applications
